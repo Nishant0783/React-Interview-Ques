@@ -1,0 +1,21 @@
+.folder {
+    background-color: rgb(148, 148, 148);
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 10px
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.button{
+    cursor: pointer;
+}
+
+.file {
+    margin-top: 5px;
+}
